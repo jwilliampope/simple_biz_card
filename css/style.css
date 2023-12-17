@@ -72,19 +72,3 @@ main > .tagline {
   /* THEME */
   color: #0277bd;
 }
-
-.icons-social a svg path {
-  /* THEME */
-  fill: #0277bd;
-}
-
-.devto {
-  margin-bottom: -0.2rem;
-}
-
-.devto svg {
-  margin-bottom: -0.2rem;
-  margin-left: 0.675rem;
-  width: 2.65rem;
-  height: 2.65rem;
-}
